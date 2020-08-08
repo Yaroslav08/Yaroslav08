@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi everyone 👋
+### Im Yaroslav and Im a backend developer
+My experience in IT 3 years
 
-<!--
-**Yaroslav08/Yaroslav08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My main development stack is .NET Core:
+ * ASP.NET Core (MVC, WEBAPI)
+ * Entity Framework Core
+ * Dapper
+ * Design Patterns
+ * SOLID principles
+ * Microservices
+ * Knowledge of OS: Windows, Linux (Ubuntu, Debian)
+ * WPF
+ * Xamarin
+ * [AvaloniaUI](https://github.com/AvaloniaUI/Avalonia)
+ 
+#### In free time, i am worked at one of most interesting project in Ukraine - [E-Study](https://github.com/Yaroslav08/EStudy)
