@@ -6,8 +6,7 @@ My experience in IT 3 years. I am a student who is ready to get acquainted with 
  * ASP.NET Core (MVC, WebApi)
  * Entity Framework Core
  * Dapper
- * Design Patterns
- * SOLID principles
+ * Design Patterns, SOLID principles, MVC, MVVM
  * Microservices
  * WPF
  * Xamarin
