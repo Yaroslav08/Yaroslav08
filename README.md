@@ -9,6 +9,6 @@ My experience in IT 3 years. I am a student who is ready to get acquainted with 
  * Design Patterns, SOLID principles, MVC, MVVM
  * Microservices
  * WPF, Xamarin, [AvaloniaUI](https://github.com/AvaloniaUI/Avalonia)
- * Knowledge of OS: Windows, Linux (Ubuntu, Debian, Kali)
+ * Knowledge of OS: Windows, Linux (Ubuntu)
  
 #### In free time, i am worked at one of most interesting project in Ukraine - [E-Study](https://github.com/EStudyProj/E-Study)
