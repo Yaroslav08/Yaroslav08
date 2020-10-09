@@ -1,4 +1,4 @@
-## Hi everyone 👋 im Yaroslav and Im a backend developer
+## Hi everyone 👋 im Yaroslav and Im a backend (.NET Core) developer
 ### About
 My experience in IT 3 years. Greetings, I am a student who is ready to get acquainted with the world of information technology in all directions. I study at "State University of Telecommunications" [SUT](http://www.dut.edu.ua/) in the specialty "Software Engineering".I am developing projects for desktop computers and web applications using the .NET Core and the C#. 
 
