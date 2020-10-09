@@ -1,6 +1,6 @@
 ## Hi everyone 👋 im Yaroslav and Im a backend developer
 ### About
-My experience in IT 3 years. I am a student who is ready to get acquainted with the world of information technology in all directions. I study at Collage of Information System and Technology named after V. Hetman in the specialty Maintenance of software systems and systems [PCISaT](https://www.kisit.kneu.edu.ua). I am developing projects for desktop computers and web applications using the .NET platform and the C# programming language. 
+My experience in IT 3 years. Greetings, I am a student who is ready to get acquainted with the world of information technology in all directions. I study at "State University of Telecommunications" [SUT](http://www.dut.edu.ua/) in the specialty "Software Engineering".I am developing projects for desktop computers and web applications using the .NET Core and the C#. 
 
 ### My main development stack is .NET Core:
  * ASP.NET Core (MVC, WebApi)
