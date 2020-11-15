@@ -11,4 +11,4 @@ My experience in IT 3 years. Greetings, I am a student who is ready to get acqua
  * WPF, Xamarin, [AvaloniaUI](https://github.com/AvaloniaUI/Avalonia)
  * Knowledge of OS: Windows, Linux (Ubuntu)
  
-#### In my free time I work on an interesting project within Ukraine - [E-Study](https://github.com/Yaroslav08/EStudy)
+#### In my free time I work on project - [E-Study](https://github.com/Yaroslav08/EStudy)
